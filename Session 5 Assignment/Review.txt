@@ -1,0 +1,23 @@
+- Why should we use functions?
+=> To use many times later. Easy to call. Don't need to find and correct many different parts of code.
+
+- How to define a function?
+def name_of_function(argument)
+
+- How to call/use a fuction?
+from "file has function" import function
+when using: call function(argument)
+
+- What is return, why and how do we use it?
+=> Return is used to give output of a function.
+When develop a function, we need to take out the output and use a variable to get that output.
+
+- Do we have to return in every function?
+=> No. It's only needed/useful when you want to take some value from calculation in function.
+
+- What are function arguments? Why and how we use them?
+=> Function arguments are input variable of a function. 
+When we have a function already, only need to input arguments then we will get the result of the function.
+
+- How to use function from other files?
+Use import - 2 ways: import function from a file or import the whole file that consists of functions.
